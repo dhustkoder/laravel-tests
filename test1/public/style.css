@@ -343,7 +343,7 @@ img {
       .header-area .top-header .top-header-content .top-social-info {
         position: relative;
         z-index: 1;
-        border-left: 2px solid #959595;
+        /*border-left: 2px solid #959595; */
         margin-left: 30px;
         padding-left: 20px; }
         @media only screen and (min-width: 768px) and (max-width: 991px) {

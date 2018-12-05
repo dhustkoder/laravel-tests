@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Crose - Modern Church Template | Home</title>
+    <title>Movimento Conservador Brasileiro</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -37,7 +37,6 @@
                         <div class="top-header-content d-flex flex-wrap align-items-center justify-content-between">
                             <!-- Top Header Meta -->
                             <div class="top-header-meta d-flex flex-wrap">
-                                <a href="#" class="open" data-toggle="tooltip" data-placement="bottom" title="10 Am to 6 PM"><i class="fa fa-clock-o" aria-hidden="true"></i> <span>Opening Hours - 10 Am to 6 PM</span></a>
                                 <!-- Social Info -->
                                 <div class="top-social-info">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -47,8 +46,8 @@
                             </div>
                             <!-- Top Header Meta -->
                             <div class="top-header-meta">
-                                <a href="mailto:info.deercreative@gmail.com" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>info.deercreative@gmail.com</span></a>
-                                <a href="#" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>+12 345 678 910</span></a>
+                                <a href="mailto:info.deercreative@gmail.com" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>movimentoconservadorbrasileiro.mcb@gmail.com</span></a>
+                                <a href="#" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>(51) 345 678 910</span></a>
                             </div>
                         </div>
                     </div>
@@ -65,7 +64,7 @@
                     <nav class="classy-navbar justify-content-between" id="croseNav">
 
                         <!-- Nav brand -->
-                        <a href="index.html" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
+                        <a href="index" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
@@ -83,75 +82,20 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="#">Pages</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="sermons.html">Sermons</a></li>
-                                            <li><a href="sermons-details.html">Sermons Details</a></li>
-                                            <li><a href="events.html">Events</a></li>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="single-post.html">Blog Details</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Megamenu</a>
-                                        <div class="megamenu">
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="sermons.html">Sermons</a></li>
-                                                <li><a href="sermons-details.html">Sermons Details</a></li>
-                                                <li><a href="events.html">Events</a></li>
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="single-post.html">Blog Details</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="sermons.html">Sermons</a></li>
-                                                <li><a href="sermons-details.html">Sermons Details</a></li>
-                                                <li><a href="events.html">Events</a></li>
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="single-post.html">Blog Details</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="sermons.html">Sermons</a></li>
-                                                <li><a href="sermons-details.html">Sermons Details</a></li>
-                                                <li><a href="events.html">Events</a></li>
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="single-post.html">Blog Details</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="sermons.html">Sermons</a></li>
-                                                <li><a href="sermons-details.html">Sermons Details</a></li>
-                                                <li><a href="events.html">Events</a></li>
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="single-post.html">Blog Details</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li><a href="events.html">Events</a></li>
-                                    <li><a href="sermons.html">Sermons</a></li>
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="home">Quem Somos</a></li>
+                                    <li><a href="join">Faça Parte Do Movimento</a></li>
+                                    <li><a href="articles">Artigos</a></li>
+                                    <li><a href="contact">Contato</a></li>
                                 </ul>
 
                                 <!-- Search Button -->
+                                <!--
                                 <div id="header-search"><i class="fa fa-search" aria-hidden="true"></i></div>
-
+                                -->
                                 <!-- Donate Button -->
+                                <!--
                                 <a href="#" class="btn crose-btn header-btn">Donate Us</a>
-
+                                -->
                             </div>
                             <!-- Nav End -->
                         </div>
@@ -657,10 +601,10 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-blog-post mb-100">
                         <div class="post-thumbnail">
-                            <a href="single-post.html"><img src="img/bg-img/10.jpg" alt=""></a>
+                            <a href="single-post"><img src="img/bg-img/10.jpg" alt=""></a>
                         </div>
                         <div class="post-content">
-                            <a href="single-post.html" class="post-title">
+                            <a href="single-post" class="post-title">
                                 <h4>Mexican priest murdered in his church</h4>
                             </a>
                             <div class="post-meta d-flex">
@@ -676,10 +620,10 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-blog-post mb-100">
                         <div class="post-thumbnail">
-                            <a href="single-post.html"><img src="img/bg-img/11.jpg" alt=""></a>
+                            <a href="single-post"><img src="img/bg-img/11.jpg" alt=""></a>
                         </div>
                         <div class="post-content">
-                            <a href="single-post.html" class="post-title">
+                            <a href="single-post" class="post-title">
                                 <h4>A daily guide to what's open in the Catholic Church</h4>
                             </a>
                             <div class="post-meta d-flex">
@@ -695,10 +639,10 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-blog-post mb-100">
                         <div class="post-thumbnail">
-                            <a href="single-post.html"><img src="img/bg-img/12.jpg" alt=""></a>
+                            <a href="single-post"><img src="img/bg-img/12.jpg" alt=""></a>
                         </div>
                         <div class="post-content">
-                            <a href="single-post.html" class="post-title">
+                            <a href="single-post" class="post-title">
                                 <h4>The Bishop of Dromore was right to resign.</h4>
                             </a>
                             <div class="post-meta d-flex">

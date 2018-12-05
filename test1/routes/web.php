@@ -11,10 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
-
-Route::get('/index.html', function () {
-    return view('index');
-});
+Route::get('/', 'PagesController@home');
+Route::get('/home', 'PagesController@home');
+Route::get('/join', 'PagesController@join');
+Route::get('/articles', 'PagesController@articles');
+Route::get('/contact', 'PagesController@contact');
